@@ -1,0 +1,15 @@
+# Spotify Nexus - Git Exclusions
+*.exe
+*.dll
+*.pdb
+.vs/
+x64/
+Debug/
+Release/
+
+# Local Media & Cache
+/Cache/
+/Storage/
+/Data/
+settings.json
+offline_tracks.db
